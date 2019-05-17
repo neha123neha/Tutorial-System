@@ -70,22 +70,25 @@ Python Basic Practice Questions
   <button class="block" onclick="location.href='String_operations/SO_index.jsp'">String Operations</button>
   <br>
   <br>
-  <button class="block" onclick="location.href='index.html'">List</button>
+  <button class="block" onclick="location.href='List_operations/List_index.jsp'">List</button>
   <br>
   <br>
-  <button class="block" onclick="location.href='index.html'">Tuples</button>
+  <button class="block" onclick="location.href='Tup_operations/Tup_index.jsp'">Tuples</button>
   <br>
   <br>
-  <button class="block" onclick="location.href='index.html'">Dictionary</button>
+  <button class="block" onclick="location.href='Dict_operations/Dict_index.jsp'">Dictionary</button>
   <br>
   <br>
-  <button class="block" onclick="location.href='index.html'">Decision  Making</button>
+  <button class="block" onclick="location.href='DM_operations/DM_index.jsp'">Decision  Making</button>
   <br>
   <br>
-  <button class="block" onclick="location.href='index.html'">Loops</button>
+  <button class="block" onclick="location.href='loops/loops_index.jsp'">Loops</button>
   <br>
   <br>
-  <button class="block" onclick="location.href='index.html'">Functions</button>
+  <button class="block" onclick="location.href='index.jsp'">Functions</button>
+  <br>
+  <br>
+  <button class="block" onclick="location.href='report.jsp'">Performance Report</button>
 </div>
 </body>
 </html>
