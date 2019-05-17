@@ -1,0 +1,43 @@
+<!Doctype html>
+<head>
+<link rel="stylesheet" type="text/css" href="../style.css">
+<style>
+
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:200px;   /* Height of the footer */
+}
+
+#results {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:75px;
+   font-weight: bold;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<h1>Questions on Loops </h1>
+<div class="quiz-container">
+  <div id="quiz" ></div>
+</div>
+<div id ="footer" >
+  <button id="home" onclick="location.href = '../main.html'">Home</button>
+  <button id="repeat"value="Refresh Page" onClick="window.location.reload()">Practice Again</button>
+  <button id="previous">Previous Question</button>
+  <button id="next">Next Question</button>
+  <button id="submit">Submit Quiz</button>
+</div>
+<div id="results"></div>
+<script type="text/javascript" src="Dict_quiz.js"></script>
+
+</body>
+
+</html>
